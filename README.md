@@ -1,2 +1,2 @@
 # computacao-distribuida
-6º Semestre - Computação Distribuída - Exercícios desenvolvidos nas aulas de laboratório
+Computação Distribuída - 06D11 - Exercícios desenvolvidos nas aulas de laboratório
